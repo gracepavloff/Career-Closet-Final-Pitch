@@ -14,7 +14,7 @@ Submit once for the Canvas group. Canvas is the official submission record. Conf
 
 ## Links to Complete Before Canvas Submission
 
-- Shareable live-deck URL: **Pending GitHub Pages deployment.** The repository is [gracepavloff/Career-Closet-Final-Pitch](https://github.com/gracepavloff/Career-Closet-Final-Pitch). After Pages is enabled for `main` and the deployment completes, put the public deck URL in the common queue in BUSFIN 4215 Arena before presenting.
+- Shareable live-deck URL: **Pending GitHub Pages setup.** The source is published in [gracepavloff/Career-Closet-Final-Pitch](https://github.com/gracepavloff/Career-Closet-Final-Pitch). Enable Pages under **Settings -> Pages** from branch `main`, folder `/ (root)`. Expected URL: `https://gracepavloff.github.io/Career-Closet-Final-Pitch/`. After deployment completes, put the working URL in the common queue in BUSFIN 4215 Arena before presenting.
 - Live product URL: **Not yet published or confirmed.** Do not use the presentation URL as a product URL unless the team has built and published the actual product experience. Add the verified product URL here when available.
 
 The live product URL remains unpublished or unconfirmed. Do not use the presentation URL as a product URL unless the team has built and published the actual product experience.

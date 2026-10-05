@@ -8,6 +8,6 @@ This folder is a static website. The entry point is `index.html`.
 2. In **Settings -> Pages**, choose **Deploy from a branch**, select `main`, and select `/ (root)`.
 3. Save and wait for GitHub Pages to provide the public URL.
 
-The GitHub repository has been created for this pitch. The live URL is not available until the branch is pushed and Pages deployment completes.
+The public repository is populated on `main`. GitHub Pages is not enabled yet. After selecting `main` and `/ (root)` in **Settings -> Pages**, the expected live URL is `https://gracepavloff.github.io/Career-Closet-Final-Pitch/`.
 
 The `.nojekyll` file is included so GitHub Pages serves the static files directly.
