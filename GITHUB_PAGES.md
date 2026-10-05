@@ -4,11 +4,10 @@ This folder is a static website. The entry point is `index.html`.
 
 ## Publish in GitHub
 
-1. Create a new GitHub repository named `careercloset` under the intended GitHub account.
-2. Upload the contents of this folder to the repository root.
-3. In **Settings -> Pages**, choose **Deploy from a branch**, select `main`, and select `/ (root)`.
-4. Save and wait for GitHub Pages to provide the public URL.
+1. Publish this folder's `main` branch to [gracepavloff/Career-Closet-Final-Pitch](https://github.com/gracepavloff/Career-Closet-Final-Pitch).
+2. In **Settings -> Pages**, choose **Deploy from a branch**, select `main`, and select `/ (root)`.
+3. Save and wait for GitHub Pages to provide the public URL.
 
-The current workspace remote points to the unrelated `gracepavloff/Orbit-Run` repository, so CareerCloset has not been pushed there.
+The GitHub repository has been created for this pitch. The live URL is not available until the branch is pushed and Pages deployment completes.
 
 The `.nojekyll` file is included so GitHub Pages serves the static files directly.

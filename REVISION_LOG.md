@@ -1,0 +1,6 @@
+# CareerCloset Group Revision Log
+
+| Advice received | Decision | Reason | Resulting change |
+| --- | --- | --- | --- |
+| Feedback after the prior presentation: focus on the ask, runway, use of funds, and milestone. | Adopted in full. | These are the investor's core decision points and the final rubric explicitly evaluates financing ask/runway/milestone and valuation/terms. The previous deck gave them too little time and detail. | Rebuilt the live deck as an eight-minute fundraising pitch. Added dedicated slides for the $15,000 ask and proposed terms, itemized $15,000 use-of-funds plan, six-month cash/runway scenario, and measurable month-six milestones with stop/go gates. Expanded the script for each section and added supporting calculations. |
+| No other coaching or peer-investor recommendations have been provided for this final pitch in the materials available. | No additional advice adopted or declined. | Do not invent recommendations or attribute advice to an unnamed reviewer. Update this log after the live coaching segment. | Coaching notes in `SCRIPT.md` reserve two minutes to capture advice, state adopt/test/decline with a reason, and record the resulting change and owner. |
